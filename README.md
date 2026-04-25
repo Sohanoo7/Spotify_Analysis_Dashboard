@@ -21,6 +21,7 @@ The dataset used in this project is sourced from Kaggle.
 **Link:** [https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern](https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern)
 
 ---
+<img alt = "image" src ="Image.png">
 
 ## Dataset Information
 
@@ -132,7 +133,7 @@ The average recommendation rating indicates moderate satisfaction, highlighting 
 
 ## Dashboard Image
 
-*(Insert your dashboard screenshot here)*
+<img alt = "image" src ="Dashboard Img.png">
 
 ---
 
